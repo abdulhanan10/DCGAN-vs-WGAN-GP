@@ -1,7 +1,5 @@
 # DCGAN vs WGAN-GP — Tackling Mode Collapse in GANs
 
-> **Course:** AI4009 — Generative AI | Assignment 3, Question 1  
-> **Authors:** 22F-8762 · 22F-3275  
 > **Framework:** PyTorch · Gradio · Kaggle Datasets
 
 ---
